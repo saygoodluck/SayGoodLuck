@@ -4,5 +4,5 @@ My name is Kostiantyn and I'm a backend software engineer. I'm from Ukraine, liv
 
 ### 🔧 Technologies & Tools
 
-Node.js,Java, Spring, NestJS
+Node.js, Java, Spring, NestJS
 
